@@ -1,7 +1,7 @@
 # Movie-Library-API
 
 ## 📌 Опис
-Короткий опис проєкту (що він робить).
+REST API for managing a movie database with support for retrieving, adding, and filtering movies.
 
 ## 🚀 Технології
 - Python
